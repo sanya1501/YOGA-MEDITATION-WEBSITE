@@ -1,1 +1,2 @@
 # YOGA-MEDITATION-WEBSITE
+ I incorporated audio and video content to guide users through yoga poses, meditation techniques, and even included motivational lessons. These elements were tailored to resonate with our audience, providing them with a holistic experience and fostering a sense of connection and guidance.my primary focus was to enhance the user experience and create a platform that catered to individuals seeking the benefits of yoga and meditation.
